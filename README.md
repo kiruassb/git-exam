@@ -124,4 +124,4 @@ Vous devez :
 
 
 deux fonctionalités
-git checkout main
+git checkout main MA BIITE
